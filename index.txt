@@ -1,7 +1,6 @@
 <html>
 <title>Git Test</title>
 <body>
-<H3>body add</H3>
 <ul>
 	<li>Java1</li>
 	<li>Java2</li>
